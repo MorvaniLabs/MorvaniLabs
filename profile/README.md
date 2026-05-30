@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/morvanilabs-logo.jpg" alt="Morvani Labs" width="420" />
+  <img src="profile/morvanilabs-logo.png" alt="Morvani Labs" width="420" />
 </p>
 
 <h3 align="center">Morvani Labs</h3>
