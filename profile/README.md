@@ -5,8 +5,8 @@
 <h3 align="center">Morvani Labs</h3>
 
 <p align="center">
-  Mobile apps, web platforms, and AI-powered products.<br/>
-  Waco, Texas &nbsp;·&nbsp; Veteran-Founded &nbsp;·&nbsp; Est. 2026
+  We build mobile apps, web platforms, and AI-powered tools.<br/>
+  Independent product studio &nbsp;·&nbsp; Founded by De' Angelo Benjamin
 </p>
 
 ---
@@ -17,8 +17,8 @@
 The local-first coordination layer for AI agents — append-only, grep-able, git-visible. Your data never leaves disk.
 - 📦 [`cordn8`](https://www.npmjs.com/package/cordn8) on npm &nbsp;·&nbsp; 💻 [Source](https://github.com/MorvaniLabs/cordn8) &nbsp;·&nbsp; 🌐 [cordn8.com](https://cordn8.com)
 
-**Maya** — Universal deep-UX audit.  
-Role-plays a real first-timer against any product, scores 13 fixed gates (G1–G10 + X1–X3), and returns an honest ship/no-ship verdict — tracked over time.
+**Maya** — Automated UX audit.  
+Reviews any product the way a real first-time user would — then returns an honest ship / not-ready verdict you can track over time.
 - 🔒 Private · Coming soon
 
 **More in development** — mobile apps, web platforms, market intelligence, and AI-powered products.
@@ -27,7 +27,7 @@ Role-plays a real first-timer against any product, scores 13 fixed gates (G1–G
 
 ### Contact
 
-📧 [team@morvanilabs.com](mailto:team@morvanilabs.com) &nbsp;·&nbsp; 🌐 [morvanilabs.com](https://morvanilabs.com)
+💬 **[Start a project →](https://morvanilabs.com/#contact)** &nbsp;·&nbsp; 📧 [team@morvanilabs.com](mailto:team@morvanilabs.com) &nbsp;·&nbsp; 🌐 [morvanilabs.com](https://morvanilabs.com)
 
 ---
 
