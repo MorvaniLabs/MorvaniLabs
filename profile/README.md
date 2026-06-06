@@ -14,12 +14,12 @@
 ### Products
 
 **[Cordn8](https://cordn8.com)** — AI agent coordination platform.  
-The local-first coordination layer for AI agents — append-only, grep-able, git-visible. Your data never leaves disk.
+Keeps your AI agents working together — runs locally, so your data never leaves your machine.
 - 📦 [`cordn8`](https://www.npmjs.com/package/cordn8) on npm &nbsp;·&nbsp; 💻 [Source](https://github.com/MorvaniLabs/cordn8) &nbsp;·&nbsp; 🌐 [cordn8.com](https://cordn8.com)
 
 **Maya** — Automated UX audit.  
 Reviews any product the way a real first-time user would — then returns an honest ship / not-ready verdict you can track over time.
-- 🔒 Private · Coming soon
+- 🔒 Private · Coming soon — [join the waitlist](https://morvanilabs.com/#contact)
 
 **More in development** — mobile apps, web platforms, market intelligence, and AI-powered products.
 
